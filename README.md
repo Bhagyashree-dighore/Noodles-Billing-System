@@ -1,2 +1,2 @@
 # Noodles-Billing-System
-This is my First Project On Github
+I developed this billing System  using Java and MYSQL Database.
